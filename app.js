@@ -44,7 +44,7 @@
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
-                    'Authorization': 'Bearer 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'
+                    'Authorization': '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'
                 },
                 body: JSON.stringify({
                     model: 'text-davinci-003',
