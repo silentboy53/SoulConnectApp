@@ -1,0 +1,40 @@
+
+    body {
+        background: linear-gradient(to bottom, #6a5d4d, #3b3b3b);
+        color: #fff;
+        font-family: 'Arial', sans-serif;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 3em;
+        margin-top: 50px;
+    }
+
+    h2 {
+        margin-bottom: 20px;
+    }
+
+    .mode-button {
+        background-color: rgba(255, 255, 255, 0.1);
+        border: 1px solid #fff;
+        padding: 15px 30px;
+        margin: 20px;
+        font-size: 1.2em;
+        cursor: pointer;
+        transition: all 0.3s;
+    }
+
+    .mode-button:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+    }
+
+    #message {
+        font-size: 1.5em;
+        margin-top: 30px;
+    }
+
+    .candle {
+        margin-top: 50px;
+    }
+    
